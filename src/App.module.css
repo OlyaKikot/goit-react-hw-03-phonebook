@@ -1,0 +1,23 @@
+.mainTitle {
+  margin-top: 0;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-size: 52px;
+  text-align: center;
+  background-color: rgb(250, 235, 215);
+
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 10px rgba(54, 52, 49, 0.3);
+}
+
+.title {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-size: 30px;
+  text-align: center;
+  background-color: rgb(250, 235, 215);
+  box-shadow: 0 0 10px rgba(54, 52, 49, 0.3);
+}

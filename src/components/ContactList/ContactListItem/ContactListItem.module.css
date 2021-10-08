@@ -1,0 +1,24 @@
+.button {
+  display: inline-block;
+  font-size: 20px;
+  background-color: rgb(114, 107, 97);
+  color: aliceblue;
+  border: none;
+  margin-left: auto;
+  margin-right: 50px;
+  padding: 10px;
+  border-radius: 3px;
+  transition-timing-function: linear;
+}
+.button:hover {
+  background-color: rgb(88, 79, 70);
+  box-shadow: 0 0 10px rgba(54, 52, 49, 0.3);
+}
+
+.container {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 500px;
+  margin-bottom: 10px;
+}
